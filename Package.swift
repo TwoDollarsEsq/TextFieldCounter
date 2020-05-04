@@ -14,7 +14,7 @@ let package = Package(
     targets: [
         .target(
             name: "TextFieldCounter",
-            path: "."
+            path: "Sources"
         )
     ]
 )
